@@ -1,4 +1,4 @@
-# Facial Recoginition using Siamese Neural Networks 
+# Facial Recognition using Siamese Neural Networks 
 
 I always thought that do one shot networks really work? They take really less data as compared to other CNNs and still give awesome results. So I tried to implement [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) by G. Koch, R. Zemel, and R. Salakhutdinov. A really brilliant paper to detect similarity between two entities. Though, the implementation is not exact same, because of lack of good computing resources, but the core idea is to divide the input into two, predicting probability score to depict their similarity.
 
