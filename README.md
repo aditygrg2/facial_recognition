@@ -14,7 +14,7 @@ The model looks like this -
 
 Though in the real paper, more deep model with more trainable parameters is used. But still it gives much good results. 
 
-** Loss Metric Used ** : Binary Crossentropy
+**Loss Metric Used** : Binary Crossentropy
 
 ## Data Sources
 
